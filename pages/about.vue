@@ -141,14 +141,14 @@
     </StaticCard>
     <StaticCard>
       <h2>{{ $t('免責事項') }}</h2>
-      当サイトに掲載されている情報については、福井県の「新型コロナウイルス感染症について」（<a href="https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html" target="_blank">https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html</a>）から取得したデータですが、福井県、当サイトの開発者・関係者は、利用者が当サイトの情報を用いて行う一切の行為について責任を負うものではありません。<br>
+      当サイトに掲載されている情報については、福井県の発表資料及び「新型コロナウイルス感染症のオープンデータ」（<a href="https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html" target="_blank">https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html</a>）から取得したデータですが、福井県、当サイトの開発者・関係者は、利用者が当サイトの情報を用いて行う一切の行為について責任を負うものではありません。<br>
       また、利用者が当サイトを利用したことにより発生した利用者の損害及び利用者が第三者に与えた損害に対して、責任を負うものではありません。<br>
       当サイトに掲載されている情報は、予告なしに変更又は削除することがあります。
     </StaticCard>
     <StaticCard>
       <h2>{{ $t('データについて') }}</h2>
-      本サイトで公表しているデータは、福井県のホームページに掲載されているものです。<br>
-      <a href="https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html" target="_blank">福井県ホームページ（新型コロナウイルス感染症について）</a>
+      本サイトで公表しているデータは、福井県の発表資料及びオープンデータを元に掲載しております。<br>
+      <a href="https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html" target="_blank">新型コロナウイルス感染症のオープンデータ</a>
     </StaticCard>
     <StaticCard>
       <h2>お問い合わせ先</h2>
