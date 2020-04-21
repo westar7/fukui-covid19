@@ -147,7 +147,7 @@
     </StaticCard>
     <StaticCard>
       <h2>{{ $t('データについて') }}</h2>
-      本サイトで公表しているデータは、福井県の発表資料及びオープンデータを元に掲載しております。<br>
+      本サイトで公表しているデータは、福井県の発表資料及び「新型コロナウイルス感染症のオープンデータ」を元に掲載しております。<br>
       <a href="https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html" target="_blank">新型コロナウイルス感染症のオープンデータ</a>
     </StaticCard>
     <StaticCard>
