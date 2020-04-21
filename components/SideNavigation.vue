@@ -14,7 +14,7 @@
             <img src="/logo.svg" :alt="$t('福井県')" />
           </div>
           <div class="SideNavigation-HeaderLogoLinkText">
-            {{ $t('福井県') }}<br />{{ $t('新型コロナウイルス対策サイト（非公式）') }}
+            {{ $t('福井県') }}<br />{{ $t('新型コロナウイルス対策サイト') }}
           </div>
         </nuxt-link>
       </h1>
