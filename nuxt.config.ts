@@ -139,7 +139,7 @@ const config: Configuration = {
     hardSource: process.env.NODE_ENV === 'development'
   },
   manifest: {
-    name: '福井県 新型コロナウイルス対策サイト（非公式）',
+    name: '福井県 新型コロナウイルス対策サイト',
     theme_color: '#00a040',
     background_color: '#ffffff',
     display: 'standalone',
