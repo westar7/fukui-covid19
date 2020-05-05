@@ -18,7 +18,7 @@
       <div class="TopNews">
       <span class="TopNewsImp2">感染者・濃厚接触者や、診療に携わった医療機関・医療関係者その他の対策に携わった方々に対して、誤解や偏見に基づく差別を行わないよう、ご理解とご配慮をお願いします（福井県 県民行動指針ver.2より一部抜粋）</span><br>
       <br>
-      【5/5】福井県から5月20日までの県民の外出自粛、休業要請、学校再開などについて発表がありました <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
+      <span class="TopNewsImp3">【5/5】福井県から5月20日までの県民の外出自粛、休業要請、学校再開などについて発表がありました</span> <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
       <br>
 
       <span class="TopNewsImp3">【5/4】政府が「緊急事態宣言」延長（5月31日まで）</span><br>
