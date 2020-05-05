@@ -18,19 +18,14 @@
       <div class="TopNews">
       <span class="TopNewsImp2">感染者・濃厚接触者や、診療に携わった医療機関・医療関係者その他の対策に携わった方々に対して、誤解や偏見に基づく差別を行わないよう、ご理解とご配慮をお願いします（福井県 県民行動指針ver.2より一部抜粋）</span><br>
       <br>
+      【5/5】福井県から5月20日までの県民の外出自粛、休業要請、学校再開などについて発表がありました <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
+      <br>
+
       <span class="TopNewsImp3">【5/4】政府が「緊急事態宣言」延長（5月31日まで）</span><br>
       【4/28】福井県が学校再開について指針を発表 <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200428.pdf" target="_blank">詳しくはこちら</a><br>
       ・県立学校：当面の間、<span class="TopNewsImp3">休校を継続</span>（休校措置の内容を変更する場合は１週間前に周知）<br>
       ・小中学校：市町の教育委員会に、県立学校と同様の対応を要請<br>
       
-      【4/23】福井県 休業等の要請 <a
-      href="https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html"
-      target="_blank"
-      rel="noopener"
-      >詳しくはこちら</a>
-      
-      <br>
-      【4/14】福井県独自の緊急事態宣言を発令<br>
       </div>
     </div>
   </div>
@@ -38,18 +33,19 @@
   <div class="DataCard col-md-6 col-12">
     <div class="WhatsNew" style="height:100%">
       <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size:24px;"></i>
-        県民行動指針（4/19から5/6までに延長）
+        県民行動指針ver.3（5月20日(水)まで）
+        <a class="TopNews" href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
       </h3>
       <div class="TopNews">
       1.不要不急の外出や会合・会食を自粛<br>
       2.感染防止対策の徹底<br>
-      3.感染リスクが高まる３密をつくらない、近づかない<br>
+      3.感染リスクが高まる密閉・密集・密接の場を「つくらない」「近づかない」<br>
       4.職場における感染防止対策を徹底<br>
       5.医療機関を受診する前に電話で相談<br>
       6.県内医療を守るために最大限協力<br>
       7.緊急事態宣言の対象地域など他県との往来を自粛<br>
-      8.必要以上の買い物を控えるなど冷静に行動<br>
-      9.人権・個人情報保護を徹底
+      8.必要以上の買い物を控えるなど冷静に行動する<br>
+      9.人権・個人情報の保護を徹底する
       </div>
     </div>
   </div>
