@@ -32,7 +32,7 @@
         県民行動指針ver.4 <a class="TopNews" href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200515.pdf" target="_blank">詳しくはこちら</a>
       </h3>
       <div class="TopNews">
-      1.感染防止対策を徹底
+      1.感染防止対策を徹底<br>
       2.緊急事態宣言の対象地域など他県との往来を自粛<br>
       3.感染リスクが高まる密閉・密集・密接の場を「つくらない」「近づかない」<br>
       4.医療機関を受信する前に電話で相談<br>
