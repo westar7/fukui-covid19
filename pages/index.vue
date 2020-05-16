@@ -20,7 +20,7 @@
       <br>
       <span class="TopNewsImp3">【5/15】6月1日から県立学校の授業を再開 <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200515.pdf" target="_blank">詳しくはこちら</a><br>
       ・小中学校：市町にも同様の対応を要請</span><br>
-      <span class="TopNewsImp3">【5/14】政府が39都道府県の「緊急事態宣言」を解除（福井県も含まれる）</span><br>
+      <span class="TopNewsImp3">【5/14】政府が39県の「緊急事態宣言」を解除（福井県も含まれる）</span><br>
       【5/5】福井県から5月20日までの県民の外出自粛、休業要請、学校再開などについて発表がありました <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
       </div>
     </div>
