@@ -18,9 +18,9 @@
       <div class="TopNews">
       <span class="TopNewsImp2">感染者・濃厚接触者や医療従事者ならびにその家族や関係者等に対して、いわれのない誹謗中傷や差別的行為は絶対しないようお願いします。（福井県 県民行動指針ver.4より一部抜粋）</span><br>
       <br>
+      <span class="TopNewsImp3">【5/25】政府が全都道府県の「緊急事態宣言を解除」</span><br>
       <span class="TopNewsImp3">【5/18】6月1日から県内の小中学校の授業を再開</span><br>
       <span class="TopNewsImp3">【5/15】6月1日から県立学校の授業を再開 <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200515.pdf" target="_blank">詳しくはこちら</a></span><br>
-      <span class="TopNewsImp3">【5/14】政府が39県の「緊急事態宣言」を解除（福井県も含まれる）</span><br>
       【5/5】福井県から5月20日までの県民の外出自粛、休業要請、学校再開などについて発表がありました <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
       </div>
     </div>
