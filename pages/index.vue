@@ -29,17 +29,17 @@
   <div class="DataCard col-md-6 col-12">
     <div class="WhatsNew" style="height:100%">
       <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size:24px;"></i>
-        県民行動指針ver.4 <a class="TopNews" href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200517.pdf" target="_blank">詳しくはこちら</a>
+        県民行動指針ver.5 <a class="TopNews" href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200526.pdf" target="_blank">詳しくはこちら</a>
       </h3>
       <div class="TopNews">
-      1.感染防止対策を徹底<br>
-      2.緊急事態宣言の対象地域など他県との往来を自粛<br>
-      3.感染リスクが高まる密閉・密集・密接の場を「つくらない」「近づかない」<br>
-      4.医療機関を受信する前に電話で相談<br>
-      5.職場における感染防止対策を徹底する<br>
-      6.店舗等における感染防止対策を徹底する<br>
-      7.県内医療を守るために最大限協力する<br>
-      8.人権・個人情報保護を徹底する
+1.感染防止対策を徹底する<br>
+2.首都圏など他県との往来を自粛する（6月18日（木）まで）<br>
+3.感染リスクが高まる密閉・密集・密接の場を「つくらない」「近づかない」<br>
+4.医療機関を受診する前に電話で相談する<br>
+5.職場における感染防止対策を徹底する<br>
+6.店舗等における感染防止対策を徹底する<br>
+7.県内医療を守るために最大限協力する<br>
+8.人権・個人情報保護を徹底する
       </div>
     </div>
   </div>
