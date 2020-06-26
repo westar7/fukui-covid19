@@ -16,12 +16,10 @@
           県内の重要なニュース
         </h3>
       <div class="TopNews">
-      <span class="TopNewsImp2">感染者・濃厚接触者や医療従事者ならびにその家族や関係者等に対して、いわれのない誹謗中傷や差別的行為は絶対しないようお願いします（福井県 県民行動指針ver.4より一部抜粋）</span><br>
+      <span class="TopNewsImp2">感染者・濃厚接触者や医療従事者ならびにその家族や関係者等に対して、いわれのない誹謗中傷や差別的行為は絶対しないようお願いします（福井県 県民行動指針ver.6より一部抜粋）</span><br>
       <br>
       <span class="TopNewsImp3">【5/25】政府が全都道府県の「緊急事態宣言を解除」</span><br>
       <span class="TopNewsImp3">【5/18】6月1日から県内の小中学校の授業を再開</span><br>
-      <span class="TopNewsImp3">【5/15】6月1日から県立学校の授業を再開 <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200515.pdf" target="_blank">詳しくはこちら</a></span><br>
-      【5/5】福井県から5月20日までの県民の外出自粛、休業要請、学校再開などについて発表がありました <a href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200505.pdf" target="_blank">詳しくはこちら</a>
       </div>
     </div>
   </div>
@@ -29,17 +27,17 @@
   <div class="DataCard col-md-6 col-12">
     <div class="WhatsNew" style="height:100%">
       <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size:24px;"></i>
-        県民行動指針ver.5 <a class="TopNews" href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_honb_d/fil/200526.pdf" target="_blank">詳しくはこちら</a>
+        県民行動指針ver.6 <a class="TopNews" href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200611.pdf" target="_blank">詳しくはこちら</a>
       </h3>
       <div class="TopNews">
-1.感染防止対策を徹底する<br>
-2.首都圏など他県との往来を自粛する（6月18日（木）まで）<br>
-3.感染リスクが高まる密閉・密集・密接の場を「つくらない」「近づかない」<br>
-4.医療機関を受診する前に電話で相談する<br>
-5.職場における感染防止対策を徹底する<br>
-6.店舗等における感染防止対策を徹底する<br>
-7.県内医療を守るために最大限協力する<br>
-8.人権・個人情報保護を徹底する
+      1.感染防止対策を徹底する<br>
+      2.他県との往来は注意して行動する<br>
+      3.感染リスクが高まる密閉・密集・密接の場を「つくらない」「近づかない」<br>
+      4.医療機関を受診する前に電話で相談する<br>
+      5.職場における感染防止対策を徹底する<br>
+      6.店舗等における感染防止対策を徹底する<br>
+      7.県内医療を守るために最大限協力する<br>
+      8.人権・個人情報保護を徹底する
       </div>
     </div>
   </div>
